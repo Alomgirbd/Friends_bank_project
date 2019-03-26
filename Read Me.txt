@@ -1,0 +1,2 @@
+This is Open source Project..You need to xammp server must.
+frist upload sql file from includes
